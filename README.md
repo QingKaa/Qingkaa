@@ -1,5 +1,9 @@
 <p align="center">
-  <h1>Hi there 👋 I'm Qingkaa, a frontend developer </h1>
+  <h1>
+    Hi there 👋 
+    <br />
+    I'm Qingkaa, a frontend developer  
+  </h1>
 </p>
 
 Here are some ideas to get you started:
