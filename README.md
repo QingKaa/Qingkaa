@@ -33,6 +33,3 @@
     <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint">
     <img src="https://img.shields.io/badge/-VsCode-5c2d91?style=flat&logo=visualstudio">
 </div>
-
-<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
-<img width="100%" alt="github-snake" src="assets/ocean.gif" />
