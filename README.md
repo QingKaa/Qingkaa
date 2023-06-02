@@ -6,14 +6,27 @@
   </h1>
 </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div align="center">
+    <img src="https://img.shields.io/badge/-CSS-ffa940?style=flat&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-HTML-a0d911?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/-Echarts-ad6800?style=flat&logo=apacheecharts&logoColor=white">
+    <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/-VueJs-ffffff?style=flat&logo=vuedotjs&logoColor=4fc080">
+    <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/-Redux-ad8b00?style=flat&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/-Antdesign-006d75?style=flat&logo=antdesign&logoColor=white">
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+    <img src="https://img.shields.io/badge/-Gitlab-52c41a?style=flat&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+    <img src="https://img.shields.io/badge/-VsCode-5c2d91?style=flat-square&logo=visualstudio">
+</div>
